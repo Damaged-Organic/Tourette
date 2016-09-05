@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tourette",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "tourette:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert tourette",
+        "command": "tourette:convert"
+      }
+    ]
+  }
+}
