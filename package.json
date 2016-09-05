@@ -1,15 +1,16 @@
 {
   "name": "tourette",
   "main": "./lib/tourette",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom package to convert cyrillic into english",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Kid Binary <kid.binary@gmail.com>",
-  "contributors": [{
+  "contributors": [
+    {
       "name": "Smile0ff",
       "email": "a.parneta@gmail.com"
-  }],
+    }
+  ],
   "activationCommands": {
     "atom-workspace": "tourette:convert"
   },
@@ -18,6 +19,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
