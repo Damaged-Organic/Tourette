@@ -2,7 +2,7 @@
   "name": "tourette",
   "main": "./lib/tourette",
   "version": "0.2.0",
-  "description": "Atom package to convert cyrillic into english",
+  "description": "Atom package that converts Cyrillic layout symbols into Latin",
   "keywords": [],
   "author": "Kid Binary <kid.binary@gmail.com>",
   "contributors": [
