@@ -25,4 +25,4 @@ Alternatively just use Atom interface.
 
 ## Usage
 
-Select some text in your editor and press <kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>Z</kbd> to convert it. Tourette will omit non-Cyrillic characters or ones that do not require convertion.
+Select some text in your editor and press <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd> to convert it. Tourette will omit non-Cyrillic characters or ones that do not require convertion.
