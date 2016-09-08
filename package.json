@@ -11,9 +11,7 @@
       "email": "a.parneta@gmail.com"
     }
   ],
-  "activationCommands": {
-    "atom-workspace": "tourette:convert"
-  },
+  
   "repository": "https://github.com/Kid-Binary/Tourette.git",
   "license": "MIT",
   "engines": {
