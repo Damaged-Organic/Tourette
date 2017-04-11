@@ -1,7 +1,7 @@
 # Tourette Atom package
 
 This package will help you to convert selected text symbols in Atom editor
-from Cyrillic to Latin keyboard layout.
+from any language to English (that is, the Code) on QWERTY keyboard layout.
 
 ## Demonstration
 
@@ -9,9 +9,9 @@ from Cyrillic to Latin keyboard layout.
 
 ## Purpose
 
-Coders who use Cyrillic keyboard layout are often caught writing code (after chit-chat with their Slavic friends) in their fluent keyboard layout, resulting in few words (or even lines) of bollocks. This is rather annoying.
+Coders whose native language is not English often caught writing code (after chatting or whatever) in their fluent keyboard layout, resulting in few words (or even lines) of bollocks. This is rather annoying
 
-Now instead of furiously hitting backspace and swearing like you've got Tourette's syndrome, just finish the statement, select it and press the hotkey combination - and Cyrillic symbols will get converted to Latin according to standard keyboard layout.
+Now instead of furiously hitting backspace and swearing like you've got Tourette's syndrome, just finish the statement, select it and press the hotkey combination - and your language symbols will get converted to English according to QWERTY keyboard layout.
 
 ## Installation
 
@@ -25,4 +25,4 @@ Alternatively just use Atom interface.
 
 ## Usage
 
-Select some text in your editor and press <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd> to convert it. Tourette will omit non-Cyrillic characters or ones that do not require convertion.
+Select some text in your editor and press <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>z</kbd> to convert it.
